@@ -1,7 +1,7 @@
 # Lexical-Analysis
 Lexical-Analysis
 
-How to setup my code:
+## How to setup my code:
 Download the zip file available on canvas.
 Locate the folder path and open a command prompt.
 Check for the version of g++ compiler.
@@ -21,6 +21,5 @@ After successful compilation, let’s execute the code.
 Please open the output_Jeevika.txt file to view the output.
  
 
-Folder Structure for your reference:
  
 
